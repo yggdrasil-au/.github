@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 
@@ -14,7 +13,6 @@
 
 <section style="display: none">
   <section>
-    <p> number of page loads sinse 21-12-25 :: 01:45:00 </p>
     <a href="https://count.getloli.com">
       <img height=200 align="center" src="https://count.getloli.com/@yggdrasil-au.github.readme?name=yggdrasil-au.github.readme&theme=booru-lisu&padding=9&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
     </a>
@@ -49,6 +47,9 @@
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
       </a>
+      <a href="https://astro.build/" target="_blank" rel="noreferrer">
+        <img src="https://astro.build/favicon.svg" alt="typescript" width="40" height="40"/>
+      </a>    
     </p>
   </section>
   
