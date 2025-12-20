@@ -14,7 +14,7 @@
 
 <section style="display: none">
   <section>
-    <p> number of page loads sinse 18-12-25 :: 5:56:30 </p>
+    <p> number of page loads sinse 21-12-25 :: 01:45:00 </p>
     <a href="https://count.getloli.com">
       <img height=200 align="center" src="https://count.getloli.com/@yggdrasil-au.github.readme?name=yggdrasil-au.github.readme&theme=booru-lisu&padding=9&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
     </a>
